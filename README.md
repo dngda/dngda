@@ -1,1 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dngda)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align='center'> Hello, everyone! :wave:</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngda&show_icons=true&theme=radical)](https://github.com/dngda)
