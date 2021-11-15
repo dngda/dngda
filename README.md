@@ -9,9 +9,8 @@
 
 Hi, I'm Danang Dwiyoga A, a passionate self-taught BackEnd developer from Indonesia.
 
-- 🔭 I’m currently working on [bot-whatsapp](https://github.com/dngda/bot-whatsapp)
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Javascript and Kotlin
-- 👯 I’m looking to collaborate on [bot-whatsapp](https://github.com/dngda/bot-whatsapp)
 - 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
 
 **Languages and Tools:**  
