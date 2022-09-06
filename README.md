@@ -10,7 +10,7 @@
 Hi, I'm Danang Dwiyoga A, a passionate self-taught BackEnd and Android developer from Indonesia.
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Javascript and Kotlin
+- 🌱 I’m currently learning Javascript, Kotlin, PHP, and least Dart.
 - 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
 
 **Languages and Tools:**  
