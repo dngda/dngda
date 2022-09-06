@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Danang Dwiyoga A, a passionate self-taught BackEnd and Android developer from Indonesia.
+Hi, I'm Danang Dwiyoga A, a passionate self-taught software developer from Indonesia.
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Javascript, Kotlin, PHP, and least Dart.
