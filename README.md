@@ -19,8 +19,3 @@ Hi, I'm Danang Dwiyoga A, a passionate self-taught software developer from Indon
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngda&show_icons=true&theme=tokyonight)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dngda&theme=tokyonight&hide_border=false&layout=compact)
