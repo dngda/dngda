@@ -1,16 +1,16 @@
-### Hi there, I'm Danang 👋
+### Hi, there!! 👋
 
-<a href="https://instagram.com/dngda">
-  <img align="left" alt="Danang Dwiyoga | Instagram" width="25px" src="https://github.com/dngda/dngda/raw/main/assets/instagram.svg" />
-</a>
+<p align="left">
+<a href="https://instagram.com/dngda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Danang Dwiyoga | Instagram" height="25" /></a>
+<a href="https://twitter.com/namanyadanang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
+</p>
 
-<br />
-<br />
+<p>Wassup, I'm Danang Dwiyoga A, a passionate self-taught software developer from Indonesia. </p>
 
-Hi, I'm Danang Dwiyoga A, a passionate self-taught software developer from Indonesia.
+![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Javascript, Kotlin, PHP, and least Dart.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
 
 **Languages and Tools:**  
