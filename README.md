@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Backend-ist.
 - 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
 
 **Languages and Tools:**  
