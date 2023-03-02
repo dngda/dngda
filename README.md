@@ -5,11 +5,11 @@
 <a href="https://twitter.com/namanyadanang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
 </p>
 
-<p>Wassup, I'm Danang Dwiyoga A, a Bachelor of Informatics Engineering from Indonesia. </p>
+<p>Wassup, I'm Danang Dwiyoga A, a Bachelor of Informatics Engineering Education from Indonesia. </p>
 
 ![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Backend-ist.
 - 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
 
