@@ -1,9 +1,5 @@
 ### Hi, there!! 👋
 
-<p align="left">
-<a href="https://instagram.com/dngda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Danang Dwiyoga | Instagram" height="25" /></a>
-</p>
-
 <p>Hello guys, I'm Danang, a Bachelor of Informatics Engineering Education from Yogyakarta, Indonesia. </p>
 
 ![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
