@@ -1,14 +1,20 @@
-### Hi, there!! 👋
+# 👋 Hey, I'm Danang Dwiyoga A
 
-<p>Hello guys, I'm Danang, a Bachelor of Informatics Engineering Education from Yogyakarta, Indonesia. </p>
+I’m a software developer from Yogyakarta, Indonesia — blending a background in **Informatics Engineering Education** with hands-on experience in **backend systems**, **automation**, and **software optimization**.
 
-![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
+![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning Backend-ist.
-- 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
+While my GitHub showcases some of my open-source experiments, much of my work happens behind the scenes: building real-world systems, integrating services, and making complex workflows run smoothly.
 
-**Languages and Tools:**  
+## 💡 What I Do
+
+- **Backend Development** — PHP (Laravel, CodeIgniter 4), Node.js (JavaScript & TypeScript)
+- **Database Work** — MySQL & SQLite (design, queries, performance tuning), MongoDB
+- **Automation & Bots** — WhatsApp bot development (Baileys), API integration, web scraping
+- **DevOps & Tooling** — Docker, Laravel Sail, SonarQube
+- **System Development** — Hospital Information Systems (SIMRS) & domain-specific solutions
+- **Refactoring & Optimization** — Cleaner code, faster performance, and maintainable architecture
+- **Specialties:** API integration, automation scripts
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,6 +23,27 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
+## 📈 Beyond GitHub
+
+- Building and maintaining **production-ready hospital management software**
+- Designing **data pipelines** for healthcare workflows
+- Sharing knowledge through **code reviews** and **team mentoring**
+
+## 🌱 Current Focus
+
+- Deepening my skills in **backend engineering & automation**
+- Learning more about **scalable architectures**
+- Exploring **CI/CD pipelines** for faster deployments
+
+## 📫 Get in Touch
+
+- GitHub Issues/Discussions — Always open for collaboration
+- Support my work — [Saweria](https://saweria.co/dngda) | [Trakteer](https://trakteer.id/dngda/tip?quantity=1)
+
+## 📊 Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngda&show_icons=true&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dngda&theme=tokyonight&hide_border=false&layout=compact)
+
+> “Code is not just about solving problems, but also about creating possibilities.”
