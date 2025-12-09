@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Danang Dwiyoga A
 
-I’m a software developer from Yogyakarta, Indonesia — blending a background in **Informatics Engineering Education** with hands-on experience in **backend systems**, **automation**, and **software optimization**.
+I’m a software developer from Yogyakarta, Indonesia.
 
 ![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 
