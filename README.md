@@ -40,10 +40,7 @@ While my GitHub showcases some of my open-source experiments, much of my work ha
 - GitHub Issues/Discussions — Always open for collaboration
 - Support my work — [Saweria](https://saweria.co/dngda) | [Trakteer](https://trakteer.id/dngda/tip?quantity=1)
 
-## 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngda&show_icons=true&theme=tokyonight)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dngda&theme=tokyonight&hide_border=false&layout=compact)
-
-> “Code is not just about solving problems, but also about creating possibilities.”
+##
+>
+>  “Code is not just about solving problems, but also about creating possibilities.”
+>
